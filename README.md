@@ -9,8 +9,8 @@ I am a Computer Engineering student at **University of Málaga (UMA)** and a stu
 
 - 🌱 I’m currently learning ...
   - **Scala** & Functional Programming
-  - **Astro** & Modern Web
-  - **Dart / Flutter**
+  - **Astro**
+  - **React Native**
 - 👯 I’m looking forward to collaborate on C/C++ projects or Open Source.
 - ✔ Ask me about **C, C++, Linux or Git**.
 - Outside tech, 🎮 I enjoy playing videogames and learning about new hardware.
